@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.44 11.13">
+  <defs>
+    <style>
+      .a {
+      fill: #444444;
+      }
+    </style>
+  </defs>
+  <title>icon-carret-down</title>
+  <path class="a" d="M3.72,7.78L2.28,9.22l9,9L12,18.91l0.72-.69,9-9L20.28,7.78,12,16.06Z" transform="translate(-2.28 -7.78)"/>
+</svg>

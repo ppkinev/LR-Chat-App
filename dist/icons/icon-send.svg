@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.12 25">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #3170c4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.2px;
+      }
+    </style>
+  </defs>
+  <title>icon-send</title>
+  <path class="a" d="M2.1,14.6C8.9,12,28.5,4,28.5,4L24.6,26.6a1.4,1.4,0,0,1-2.3.8l-6.1-5.1-4.3,4,0.7-6.7,13-12.3-16,10,1,5.7L7.3,17.7l-5-1.6C1.5,15.8,1.4,14.8,2.1,14.6Z" transform="translate(-1.01 -3.38)"/>
+</svg>

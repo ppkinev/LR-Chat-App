@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.44 11.13">
+  <defs>
+    <style>
+      .a {
+        fill: #444;
+      }
+    </style>
+  </defs>
+  <title>icon-caret-up</title>
+  <path class="a" d="M18,11.13l1.44-1.44-9-9L9.72,0,9,0.69l-9,9,1.44,1.44L9.72,2.85Z" transform="translate(0 0)"/>
+</svg>
